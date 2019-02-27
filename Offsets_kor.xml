@@ -9,10 +9,10 @@
   </DX9>
   <DX11>
     <StructureAddress>19A37A0</StructureAddress>
-    <ZoomCurrent>108</ZoomCurrent>
-    <ZoomMax>110</ZoomMax>
-    <FovCurrent>114</FovCurrent>
-    <FovMax>118</FovMax>
+    <ZoomCurrent>118</ZoomCurrent>
+    <ZoomMax>120</ZoomMax>
+    <FovCurrent>124</FovCurrent>
+    <FovMax>12C</FovMax>
   </DX11>
   <LastUpdate>2019-02-27 - patch 4.4 KOR (DX9,DX11)</LastUpdate>
 </Root>
